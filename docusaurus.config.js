@@ -128,11 +128,11 @@ const config = {
               },
               {
                 label: 'DreamCloud Development',
-                href: 'http://f.dreamclouds.fr',
+                href: 'https://f.dreamclouds.fr',
               },
               {
                 label: 'Diamond Heberg',
-                href: 'http://diamond-heberg.fr',
+                href: 'https://diamond-heberg.fr',
               },
             ],
           },
