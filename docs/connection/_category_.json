@@ -1,0 +1,8 @@
+{
+  "label": "Se Connecter",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Comment se connecter à KernaCraft."
+  }
+}
