@@ -113,6 +113,10 @@ const config = {
                 label: 'Discord',
                 href: 'https://dsc.gg/kernacraft',
               },
+              {
+                label: 'Dynamap',
+                href: 'http://game.vaatigames.ovh:20018',
+              },
             ],
           },
         ],
