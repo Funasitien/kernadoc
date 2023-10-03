@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[8466],{7620:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/kernadoc/blog/tags/docusaurus","allTagsPath":"/kernadoc/blog/tags","count":4}')}}]);
