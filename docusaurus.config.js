@@ -148,22 +148,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-
-  plugins: [
-    [
-      '@docusaurus/plugin-client-redirects',
-      {
-        redirects: [
-          // /docs/oldDoc -> /docs/newDoc
-          {
-            to: 'https://dsc.gg/kernanec',
-            from: '/discord',
-          },
-        ]
-      },
-    ],
-  ],
-
 };
 
 module.exports = config;
