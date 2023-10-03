@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[1389],{9184:e=>{e.exports=JSON.parse('{"label":"Villes","permalink":"/kernadoc/docs/tags/villes","allTagsPath":"/kernadoc/docs/tags","count":1,"items":[{"id":"villes/index","title":"Intro","description":"","permalink":"/kernadoc/docs/villes/"}]}')}}]);

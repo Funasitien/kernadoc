@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[5765],{4648:e=>{e.exports=JSON.parse('{"label":"Commandes","permalink":"/kernadoc/docs/tags/commandes","allTagsPath":"/kernadoc/docs/tags","count":1,"items":[{"id":"commandes/index","title":"Intro","description":"","permalink":"/kernadoc/docs/commandes/"}]}')}}]);
