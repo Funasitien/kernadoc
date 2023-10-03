@@ -94,46 +94,29 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Le Site',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
+                label: 'News',
                 to: '/blog',
               },
+            ],
+          },
+          {
+            title: 'Communauté',
+            items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Discord',
+                href: 'https://dsc.gg/kernacraft',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DreamCloud Devlopment.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KernaCraft - DreamCloud Devlopment.`,
       },
       prism: {
         theme: lightCodeTheme,

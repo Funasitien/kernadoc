@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Jouez tous ensemble',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/users-solid.svg').default,
     description: (
       <>
         Jouez tous ensemble, même avec votre pote sur
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Un serveur qui tient la route',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/server-solid.svg').default,
     description: (
       <>
         Contrairement à l'anné dernière, on a un serveur qui tient
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Avec plein de trucs nouveaux',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/puzzle-piece-solid.svg').default,
     description: (
       <>
         Comme des biomes customs, des nouveau minerais, une
