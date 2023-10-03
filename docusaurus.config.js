@@ -119,8 +119,25 @@ const config = {
               },
             ],
           },
+          {
+            title: '"Partenaires"',
+            items: [
+              {
+                label: 'DEMOCRAFT',
+                href: 'https://democraft.fr',
+              },
+              {
+                label: 'DreamCloud Development',
+                href: 'http://f.dreamclouds.fr',
+              },
+              {
+                label: 'Diamond Heberg',
+                href: 'http://diamond-heberg.fr',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} KernaCraft - DreamCloud Devlopment.`,
+        copyright: `Copyright © ${new Date().getFullYear()} KernaCraft - DreamCloud Development.`,
       },
       prism: {
         theme: lightCodeTheme,
