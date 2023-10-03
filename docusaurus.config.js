@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'KernaCraft',
+  tagline: 'La saison 2 arrive 😱',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Han"
   // This template add two language by default
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'fr',
     locales: ['en', 'fr'],
   },
 
@@ -69,7 +69,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -79,14 +79,15 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
+          /** {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
+          }, 
           {
-          type: 'localeDropdown',
-        },
+            type: 'localeDropdown',
+            position: 'right',
+          }, **/
         ],
       },
       footer: {
