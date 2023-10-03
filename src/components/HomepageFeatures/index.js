@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Jouez tous ensemble',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Jouez tous ensemble, même avec votre pote sur
+        nintendo switch et celui qui a crack le jeu (le thug).
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Un serveur qui tient la route',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Contrairement à l'anné dernière, on a un serveur qui tient
+        vraiment la route. Et 10 joueurs.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Avec plein de trucs nouveaux',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Comme des biomes customs, des nouveau minerais, une
+        dynamp, du voice chat, des villes. Que faire de plus ?
       </>
     ),
   },
