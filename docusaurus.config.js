@@ -104,6 +104,10 @@ const config = {
                 label: 'News',
                 to: '/blog',
               },
+              {
+                label: 'Archive',
+                href: 'https://f.dreamclouds.fr/fr/archive/kerna/',
+              },
             ],
           },
           {
