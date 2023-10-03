@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[4948],{5284:e=>{e.exports=JSON.parse('{"label":"B\xe9ryl","permalink":"/kernadoc/en/docs/tags/beryl","allTagsPath":"/kernadoc/en/docs/tags","count":1,"items":[{"id":"beryl/index","title":"Intro","description":"","permalink":"/kernadoc/en/docs/beryl/"}]}')}}]);
