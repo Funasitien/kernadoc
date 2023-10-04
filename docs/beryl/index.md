@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Minerais
 tags:
   - Fonctionalité
   - Béryl
