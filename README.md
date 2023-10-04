@@ -8,4 +8,4 @@ _Powered by Funsasitien's GHP Docusaurus template_
 </a>
 
 # The site
-(https://funasitien.github.io/kernadoc/)[https://funasitien.github.io/kernadoc/]
+[https://funasitien.github.io/kernadoc/](https://funasitien.github.io/kernadoc/)
