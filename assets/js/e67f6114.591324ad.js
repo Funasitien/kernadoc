@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[3511],{8930:e=>{e.exports=JSON.parse('{"label":"B\xe9ryl","permalink":"/kernadoc/docs/tags/beryl","allTagsPath":"/kernadoc/docs/tags","count":1,"items":[{"id":"beryl/index","title":"Minerais","description":"Cette page n\'est pas termin\xe9 !","permalink":"/kernadoc/docs/beryl/"}]}')}}]);
