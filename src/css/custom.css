@@ -33,11 +33,11 @@
   content: '';
   position: absolute;
   margin-left: 5px;
+  transform: translate(0px, 5px);
 
   display: inline-block;
-
-  width: 1em;
-  height: 1em;  
+  width: 1.2em;
+  height: 1.2em;  
 
   background-image: url(https://f.dreamclouds.fr/img/logo_white.svg);
   background-size: contain;
@@ -45,7 +45,5 @@
 
 .footer__copyright {
   position: relative;
-  background: black;
-  color: white;
   padding: 20px;
 }
