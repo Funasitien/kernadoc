@@ -28,3 +28,24 @@
   --ifm-color-primary-lightest: #fff2cf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.footer__copyright:after {
+  content: '';
+  position: absolute;
+  margin-left: 5px;
+
+  display: inline-block;
+
+  width: 1em;
+  height: 1em;  
+
+  background-image: url(https://f.dreamclouds.fr/img/logo_white.svg);
+  background-size: contain;
+}
+
+.footer__copyright {
+  position: relative;
+  background: black;
+  color: white;
+  padding: 20px;
+}
