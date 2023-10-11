@@ -2,6 +2,7 @@
 title: PrismUnlocked
 description: Un auncher crack qui n'est pas russe
 hide_table_of_contents: false
+slug: /crack
 ---
 
 ![Example banner](https://raw.githubusercontent.com/Diegiwg/PrismLauncher-Cracked/develop/program_info/org.prismlauncher.PrismLauncher.logo.source.svg)
