@@ -28,7 +28,7 @@ Il vous faut :
 - Un fichier d'instalation Prism (Prism Officiel ou PrismUnlocked). Pour PrismUnlocked, les liens de téléchargement sont [en bas de la page](#).
 
 # Installer Java JDK 17
-#### Si vous avez dejà Java sur votre ordinateur, vous pouvez passer à [l'étape suivante](#).
+#### Si vous avez dejà Java sur votre ordinateur, vous pouvez passer à [l'étape suivante](#lancer-le-fichier-prism).
 Il vous faut java pour pouvoir lancer Minecraft. L'instalation de java est plutot simple.
 1. Installer le fichier de téléchargement Java pour votre version [ici](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
    - Si vous êtes sur Windows, choisissez **Windows x64 Installer** ou **Windows MSI Installer**.
@@ -86,3 +86,6 @@ Bon. Votre Launcher fonctionnne. Mais il n'y a pas de bouttons jouer. C'est parc
 Dans ce tuto, je vais vous conseille d'utiliser le modpack **SIMPLY OPTIMIZED** pour jouer sur kernacraft car c'est le meilleur modpack optimizé que je conaisse. Mais tant que votre client est en 1.20, vous pouvez jouer à KERNACRAFT, donc soillez libre d'installer les mods que vous voulez !
 
 :::
+
+# Téléchargements
+## PrismUnlocked
