@@ -31,7 +31,7 @@ const config = {
   // This template add two language by default
   i18n: {
     defaultLocale: 'fr',
-    locales: ['en', 'fr'],
+    locales: ['fr'],
   },
 
   presets: [
