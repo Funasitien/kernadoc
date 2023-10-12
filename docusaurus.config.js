@@ -79,6 +79,7 @@ const config = {
             label: 'Documentation',
           },
           {to: '/blog', label: 'News', position: 'left'},
+          {to: '/prismcrack', label: 'Tuto Crack', position: 'left'},
           /** {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
