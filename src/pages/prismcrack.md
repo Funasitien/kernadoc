@@ -38,30 +38,38 @@ Il vous faut java pour pouvoir lancer Minecraft. L'instalation de java est pluto
 4. Attend que l'instalation soit finit. Si quelque chose s'est mal passé, vous le saurez dans la suite du tutoriel. Dans ce cas, [venez demander de l'aide sur discord](https://dsc.gg/kernacraft)
 
 # Installer Prism
-### Lancer le fichier Prism
+## Lancer le fichier Prism
 Vous pouvez prendre celui que vous avez installer soit sur le site officiel, soit en bas de la page
-### Choisissez votre language
+
+## Choisissez votre language
 Après avoir lancer le fichier, vous allez tomber sur cet écran :
 ![image](https://github.com/Funasitien/kernadoc/assets/86372093/e10555b5-bcdb-4d81-9b47-de274e898d9f)
+
 Choisissez le language que vous voulez. Si il n'y a que Anglais cela ne posera pas problème. Puis cliquez ur "Suivant" ou "Next".
 
-### Séléctionner les versions de Java
+## Séléctionner les versions de Java
+
 On arrive à notre java. Vous allez avoir un écran comme celui çi : 
 ![image](https://github.com/Funasitien/kernadoc/assets/86372093/1e0fed62-ae4d-4155-8677-1b9ef9646ac9)
+
 **Si vous n'avait rien, c'est une erreur**. Sinon, tout se fait tout seul, cliquez sur "Suivant".
 
-### Thème
+## Thème
+
 Vous allez pouvoir changer le thème avec cette écran :
 ![image](https://github.com/Funasitien/kernadoc/assets/86372093/18ce80c1-95d2-4b4f-bceb-532161836b0b)
+
 C'est clairement pas important, cliquez sur suivant.
 
-### Ajouter un  compte.
+## Ajouter un  compte.
+
 C'est cette étape qui est différente entre compte Crack et Premium. Dans tout les cas, cliquez sur l'onglet "Comptes" ou "Accounts" avec la tête de steve puis sur "Gérer les comptes" ou "Manage Accounts".
 ![image](https://github.com/Funasitien/kernadoc/assets/86372093/8fefa799-9643-4c7d-91df-67ae88747554)
 
 Vous allez tombez sur cet écran. Cliquez sur "Compte Hors ligne" ou "Offline" pour ajouter un compte crack. Cliquez sur "Compte Microsoft" si vous avez un compte payant.
+
 ![image](https://github.com/Funasitien/kernadoc/assets/86372093/23ecfdac-0926-44e8-aea9-37d97508fc88)
 Choisissez votre pseudo, cliquez sur valider puis sur fermé. Votre Minecraft est prêt
 
-### COmment jouer
+## Comment jouer
  
