@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[2562],{1772:a=>{a.exports=JSON.parse('{"label":"maj","permalink":"/blog/tags/maj","allTagsPath":"/blog/tags","count":1}')}}]);

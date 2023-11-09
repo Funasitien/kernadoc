@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>KernaCraft Blog</title>
-        <link>https://example.com/kernadoc/blog</link>
+        <link>https://www.kernacraft.studio/blog</link>
         <description>KernaCraft Blog</description>
         <lastBuildDate>Tue, 03 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>fr</language>
         <item>
             <title><![CDATA[Une saison 2 pour kernacraft ?]]></title>
-            <link>https://example.com/kernadoc/blog/v2</link>
-            <guid>https://example.com/kernadoc/blog/v2</guid>
+            <link>https://www.kernacraft.studio/blog/v2</link>
+            <guid>https://www.kernacraft.studio/blog/v2</guid>
             <pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[👀]]></description>
             <content:encoded><![CDATA[<p>👀</p>]]></content:encoded>
