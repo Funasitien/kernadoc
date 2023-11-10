@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[5975],{3639:e=>{e.exports=JSON.parse('{"label":"Villes","permalink":"/docs/tags/villes","allTagsPath":"/docs/tags","count":1,"items":[{"id":"villes/concept","title":"Concept de villes","description":"Cette page n\'est pas termin\xe9 !","permalink":"/docs/villes/concept"}]}')}}]);
