@@ -17,5 +17,14 @@
             <content:encoded><![CDATA[<p>👀</p>]]></content:encoded>
             <category>maj</category>
         </item>
+        <item>
+            <title><![CDATA[We Need You!]]></title>
+            <link>https://www.kernacraft.studio/blog/vrm</link>
+            <guid>https://www.kernacraft.studio/blog/vrm</guid>
+            <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn]]></description>
+            <content:encoded><![CDATA[<p>J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn</p>]]></content:encoded>
+            <category>maj</category>
+        </item>
     </channel>
 </rss>

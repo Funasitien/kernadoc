@@ -20,4 +20,17 @@
         </author>
         <category label="maj" term="maj"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[We Need You!]]></title>
+        <id>https://www.kernacraft.studio/blog/vrm</id>
+        <link href="https://www.kernacraft.studio/blog/vrm"/>
+        <updated>2023-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn]]></summary>
+        <content type="html"><![CDATA[<p>J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn</p>]]></content>
+        <author>
+            <name>funasitien</name>
+            <uri>https://f.dreamclouds.fr</uri>
+        </author>
+        <category label="maj" term="maj"/>
+    </entry>
 </feed>
