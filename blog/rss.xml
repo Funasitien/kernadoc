@@ -4,10 +4,19 @@
         <title>KernaCraft Blog</title>
         <link>https://www.kernacraft.studio/blog</link>
         <description>KernaCraft Blog</description>
-        <lastBuildDate>Tue, 03 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[We Need You!]]></title>
+            <link>https://www.kernacraft.studio/blog/vrm</link>
+            <guid>https://www.kernacraft.studio/blog/vrm</guid>
+            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn]]></description>
+            <content:encoded><![CDATA[<p>J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn</p>]]></content:encoded>
+            <category>maj</category>
+        </item>
         <item>
             <title><![CDATA[Une saison 2 pour kernacraft ?]]></title>
             <link>https://www.kernacraft.studio/blog/v2</link>
@@ -15,15 +24,6 @@
             <pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[👀]]></description>
             <content:encoded><![CDATA[<p>👀</p>]]></content:encoded>
-            <category>maj</category>
-        </item>
-        <item>
-            <title><![CDATA[We Need You!]]></title>
-            <link>https://www.kernacraft.studio/blog/vrm</link>
-            <guid>https://www.kernacraft.studio/blog/vrm</guid>
-            <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn]]></description>
-            <content:encoded><![CDATA[<p>J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn</p>]]></content:encoded>
             <category>maj</category>
         </item>
     </channel>

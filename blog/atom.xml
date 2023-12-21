@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kernacraft.studio/blog</id>
     <title>KernaCraft Blog</title>
-    <updated>2023-10-03T00:00:00.000Z</updated>
+    <updated>2023-12-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.kernacraft.studio/blog"/>
     <subtitle>KernaCraft Blog</subtitle>
     <icon>https://www.kernacraft.studio/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Une saison 2 pour kernacraft ?]]></title>
-        <id>https://www.kernacraft.studio/blog/v2</id>
-        <link href="https://www.kernacraft.studio/blog/v2"/>
-        <updated>2023-10-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[👀]]></summary>
-        <content type="html"><![CDATA[<p>👀</p>]]></content>
+        <title type="html"><![CDATA[We Need You!]]></title>
+        <id>https://www.kernacraft.studio/blog/vrm</id>
+        <link href="https://www.kernacraft.studio/blog/vrm"/>
+        <updated>2023-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn]]></summary>
+        <content type="html"><![CDATA[<p>J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn</p>]]></content>
         <author>
             <name>funasitien</name>
             <uri>https://f.dreamclouds.fr</uri>
@@ -21,12 +21,12 @@
         <category label="maj" term="maj"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Need You!]]></title>
-        <id>https://www.kernacraft.studio/blog/vrm</id>
-        <link href="https://www.kernacraft.studio/blog/vrm"/>
-        <updated>2023-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn]]></summary>
-        <content type="html"><![CDATA[<p>J'ai clairement besoin de votre avis avant de coder des trucs inutiles. Donc venez sur discord et participez à mes conférences ptn</p>]]></content>
+        <title type="html"><![CDATA[Une saison 2 pour kernacraft ?]]></title>
+        <id>https://www.kernacraft.studio/blog/v2</id>
+        <link href="https://www.kernacraft.studio/blog/v2"/>
+        <updated>2023-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[👀]]></summary>
+        <content type="html"><![CDATA[<p>👀</p>]]></content>
         <author>
             <name>funasitien</name>
             <uri>https://f.dreamclouds.fr</uri>
