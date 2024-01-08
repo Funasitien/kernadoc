@@ -18,7 +18,7 @@ PrismUnlocked est un launcher Minecraft qui vous permet de jouer sans compte, et
 
 :::info Pour les comptes premiums
 
-Ce launcher est une modification du code de PrismLauncher, un launcher minecraft qui permet de jouer a minecraft avec des modes et d'avoirs des comptes carcks suelment si vous avez connecter au moin un compte payant sur le jeu. Donc si vous n'avez pas de compte premium, vous pouvez utiliser la version modifier, mais si vous en avez un, n'hésitez pas à utiliser le lauchert officiel qui est plus mis à jour. [Vous pouvez le télécharger ic](https://prismlauncher.org/download/), le tuto sera presque le même.
+Ce launcher est une modification du code de PrismLauncher, un launcher minecraft qui permet de jouer a minecraft avec des mods. Vous pouvez très bien utiliser le launcher officiel avec un compte premium et suivre ce tuto pour avoir acces à minecraft optimisé. Il vous suffit juste d'installer le launcher [depuis ce lien](https://prismlauncher.org/download/), le tuto sera presque le même.
 
 :::
 
