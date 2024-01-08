@@ -9,21 +9,21 @@ Comme pour toute les consoles, la connexion à un serveur externe n'est pas poss
 
 Allez dans les paramètres de votre console, puis séléctionnez "Internet". Séléctionez ensuite "Modifier la connexion internet"
 
-![Screen Console](./img/screen/ps1.png)
+![Screen Console](/img/screen/ps1.png)
 
 Séléctionnez ensuite le résau internet que vous utilisez, puis séléctionnez "Personalisé"
  
-![Screen Console](./img/screen/ps2.png)
+![Screen Console](/img/screen/ps2.png)
 
 Séléctionnez "Automatique" puis sous IP > "Ne pas spécifier"
 
 Séléctionez "Manuel" pour DNS
 
-![Screen Console](./img/screen/ps3.png)
+![Screen Console](/img/screen/ps3.png)
 
 Changer la configuration DNS celon l'image suivante :
 
-![Screen Console](./img/screen/ps4.png)
+![Screen Console](/img/screen/ps4.png)
 
 Séléctionez "Automatic" pour le MTU > Séléctionnez "Ne pas utiliser" pour le proxy
 
