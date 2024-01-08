@@ -11,14 +11,20 @@ Si vous jouez sur console ou mobile,choisissez directement votre platforme dans 
 
 # Connaître votre version du jeu
 
+![Screen java ou bedrock](./img/screen/pc0.png)
+
 ## Minecraft : Java edition
 
 Cette version correspond à l'image si dessous. Il est écrit "java edition" en dessous du logo "Minecraft". Les bouttons sont plus minces et aucun rendu du joueurs ne s'afiche sur l'écran d'acceuil.
+
+![Screen java](./img/screen/pcjava.png)
 
 Si vous avez cette version, vous pouvez poursuivre avec le tuto Java Edition
 
 ## Minecraft : Bedrock edition
 
 Cette version correspond à l'image si dessous. Il n'y a rien écrit sous le logo "Minecraft". Les bouttons sont plus larges et un rendu de votre avatar est visible à droite. 
+
+![Screen bedrock](./img/screen/pcbedrock.png)
 
 Si vous avez cette version, vous pouvez poursuivre avec le tuto Bedrock Edition
