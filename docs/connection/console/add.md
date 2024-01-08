@@ -17,7 +17,7 @@ Pour cela, ouvrez d'abord Minecraft sur votre console. Cliquez ensuite sur "Serv
 
 Si la configuration DNS a fonctionné, vous deveriez avoir un écrann comme celui si :
 
-![Screen Console](/img/screen/consone2.png)
+![Screen Console](/img/screen/console2.png)
 
 Cliquez ensuite sur "Connect to a server". Vous allez avoir l'écran suivant :
 
