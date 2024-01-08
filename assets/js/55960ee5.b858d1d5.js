@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[4121],{8070:a=>{a.exports=JSON.parse('[{"label":"Authentification","permalink":"/docs/tags/authentification","count":1},{"label":"Commandes","permalink":"/docs/tags/commandes","count":2},{"label":"Fonctionalit\xe9","permalink":"/docs/tags/fonctionalite","count":1}]')}}]);

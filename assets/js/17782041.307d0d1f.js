@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[6199],{4897:e=>{e.exports=JSON.parse('{"label":"Fonctionalit\xe9","permalink":"/docs/tags/fonctionalite","allTagsPath":"/docs/tags","count":1,"items":[{"id":"commandes/index","title":"Commandes Utiles","description":"Cette page n\'est pas termin\xe9 !","permalink":"/docs/commandes/"}]}')}}]);
