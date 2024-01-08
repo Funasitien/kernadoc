@@ -15,4 +15,4 @@ Si votre console n'est pas listé dans le menu, c'est sans doute qu'elle n'est p
 - Wii & WiiU qui utilisent toujours Minecraft Console Edition
 - DS, 2DS et 3DS pour la même raison
 - PS3 pour la même raison. La PS2 et PS ne fonctionnent pas non plus
-- Xbox One et 360 sont **probablement compatible mais non testé**
+- Xbox One et 360 sont **probablement compatible mais non testés**
