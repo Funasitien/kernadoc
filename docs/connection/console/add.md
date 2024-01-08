@@ -6,7 +6,7 @@ sidebar_position: 4
 
 :::caution Avant de continuer
 
-Si votre console n'est pas listé dans le menu, c'est sans doute qu'elle n'est pas disponible. Rejoignez notre [discord](https://dsc.gg/kernacraft) pour demander plus d'information.
+Vérifiez que vous avez effectuer la configuration DNS sur votre console avant de continuer (les pages précédentes). Rejoignez notre [discord](https://dsc.gg/kernacraft) pour demander plus d'information.
 
 :::
 
