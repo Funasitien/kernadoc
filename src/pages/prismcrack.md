@@ -112,5 +112,5 @@ Et c'est finit !
 - [Mac OS Legacy](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-Legacy-7.1.tar.gz)
 - [Linux](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-7.1.tar.gz)
 - [Linux Portable](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-Portable-7.1.tar.gz)
-- 
+
 ## PrismLauncher
