@@ -88,9 +88,29 @@ Dans ce tuto, je vais vous conseille d'utiliser le modpack **SIMPLY OPTIMIZED** 
 :::
 
 ## Créer un profil
+Pour cela, cliquez sur le boutton "Ajouter une instance" en haut de votre launcher.
 ![Screen Modrinth](/img/mod1.png)
+
+Nous allons utiliser Modrinth pour télécharger le modpack. Cliquez donc sur "Modrinth" (le logo vert).
 ![Screen Modrinth](/img/mod2.png)
+
+Le pack que nous allons utiliser s'apelle "Simply Optimized". Cliquez dessus, puis séléctionné dans le menu déroulant en bas une version qui commence par `1.20.1` ou `1.20.2`. Ces versions sont les verions les plus stables et compatibles avec le serveur.
 ![Screen Modrinth](/img/mod3.png)
+
+Après le téléchargement du modpack, l'icone de Simply Optimized deverais apparaitre à l'écran. Cliquez dessus, puis sur le boutton "Lancer". Vous n'avez plus qu'a attendre que le jeu se lance !
 ![Screen Modrinth](/img/mod4.png)
+
+Et c'est finit !
+
 # Téléchargements
 ## PrismUnlocked
+- [Windows](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MinGW-w64-Setup-7.1.exe)
+- [Windows Portable](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MinGW-w64-Portable-7.1.zip)
+- [Windows ARM](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MSVC-arm64-Setup-7.1.exe)
+- [Windows ARM Portable](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MSVC-arm64-Portable-7.1.zip)
+- [Mac OS](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-7.1.tar.gz)
+- [Mac OS Legacy](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-Legacy-7.1.tar.gz)
+- [Linux](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-7.1.tar.gz)
+- [Linux Portable](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-Portable-7.1.tar.gz)
+- 
+## PrismLauncher
