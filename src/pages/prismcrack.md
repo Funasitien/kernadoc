@@ -78,7 +78,7 @@ Vous allez tombez sur cet écran. Cliquez sur "Compte Hors ligne" ou "Offline" p
 
 Choisissez votre pseudo, cliquez sur valider puis sur fermé. Votre Minecraft est prêt
 
-## Comment jouer
+# Comment jouer
 Bon. Votre Launcher fonctionnne. Mais il n'y a pas de bouttons jouer. C'est parce que il faut créé une "instance", une "version" du jeu avec ses propres fichiers et ses propres mods
 
 :::info Si vous vous y conaissez en mod
@@ -87,5 +87,10 @@ Dans ce tuto, je vais vous conseille d'utiliser le modpack **SIMPLY OPTIMIZED** 
 
 :::
 
+## Créer un profil
+![Screen Modrinth](/img/mod1.png)
+![Screen Modrinth](/img/mod2.png)
+![Screen Modrinth](/img/mod3.png)
+![Screen Modrinth](/img/mod4.png)
 # Téléchargements
 ## PrismUnlocked
