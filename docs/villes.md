@@ -45,6 +45,12 @@ Votre ville a une banque. Vous pouve déposer des pièces dedans avec la command
 Votre ville a un niveau par défaut de 1. En mettant de l'argent dans votre [banque](#banque), vous pouvez acheter des niveaux pour votre ville, et par la même occasion augementer vos nombres de claims, 
 Avantages de votre ville en fonction du niveau : 
 
+:::note
+
+Nous sommes en train de réfléchir les bonus et les prix. Ce tableau est donc en création
+
+:::
+
 | 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Fermme |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | Niveau 1 | 0 Pièces | 
