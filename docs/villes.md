@@ -42,4 +42,28 @@ Pour les joueurs qui voudrais faire du roleplay ou juste s'investire dans leurs 
 Votre ville a une banque. Vous pouve déposer des pièces dedans avec la commande `/town deposit`. Vous pouvez récupérer de l'argent dans celle si avec la commande `/town withdraw`. L'argent de votre banque peux être utiliser pour [augementer de niveaux](#level)
 
 ## Niveaux {#level}
-Votre ville a un niveau par défaut de 1. En mettant de l'argent dans votre [banque](#banque), vous pouvez acheter des niveaux pour votre ville, et par la même occasion augementer
+Votre ville a un niveau par défaut de 1. En mettant de l'argent dans votre [banque](#banque), vous pouvez acheter des niveaux pour votre ville, et par la même occasion augementer vos nombres de claims, 
+Avantages de votre ville en fonction du niveau : 
+
+| 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Fermme |
+|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| Niveau 1 | 0 Pièces | 
+| Niveau 2 | 
+| Niveau 3 | 
+| Niveau 4 | 
+| Niveau 5 | 
+| Niveau 6 | 
+| Niveau 7 | 
+| Niveau 8 | 
+| Niveau 9 | 
+| Niveau 10 | 
+| Niveau 11 | 
+| Niveau 12 | 
+| Niveau 13 | 
+| Niveau 14 | 
+| Niveau 15 | 
+| Niveau 16 | 
+| Niveau 17 | 
+| Niveau 18 | 
+| Niveau 19 | 
+| Niveau 20 | 
