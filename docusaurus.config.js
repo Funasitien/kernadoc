@@ -120,7 +120,7 @@ const config = {
               },
               {
                 label: 'Dynamap',
-                href: 'http://game.vaatigames.ovh:20018',
+                href: 'https://map.kernacraft.studio',
               },
             ],
           },
@@ -133,7 +133,7 @@ const config = {
               },
               {
                 label: 'DreamCloud Development',
-                href: 'https://f.dreamclouds.fr',
+                href: 'https://dreamclouds.fr',
               },
               {
                 label: 'Diamond Heberg',
