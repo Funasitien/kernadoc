@@ -11,4 +11,4 @@ Ensuite, vous devez vous connecter au serveur (minecraft). Puis effectuez la com
 
 
 # Rejoindre le voicechat
-Ca ce fait en deux cliques : vous ouvrez notre serveur discord, puis vous cliquez sur le salon vocal [🛖・Lobby](https://discord.com/channels/1040976548821475339/1167741660067803217) (et vous le rejoignez).
+Ca ce fait en deux cliques : vous ouvrez notre serveur discord, puis vous cliquez sur le salon vocal [🛖・Lobby](https://discord.com/channels/1040976548821475339/1167741660067803217) (et vous le rejoignez). Et c'est terminado ! Plus qu'a se rapprocher de joueurs pour pouvoir les entendrent.
