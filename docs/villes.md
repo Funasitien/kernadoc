@@ -51,7 +51,7 @@ Nous sommes en train de réfléchir les bonus et les prix. Ce tableau est donc e
 
 :::
 
-| 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Fermme |
+| 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Ferme |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | Niveau 1 | 0 Pièces | 
 | Niveau 2 | 
