@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdreamdoc=self.webpackChunkdreamdoc||[]).push([[8649],{322:a=>{a.exports=JSON.parse('{"label":"Spawn","permalink":"/docs/tags/spawn","allTagsPath":"/docs/tags","count":1,"items":[{"id":"commandes/tp","title":"T\xe9l\xe9portation","description":"","permalink":"/docs/commandes/tp"}]}')}}]);
