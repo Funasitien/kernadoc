@@ -18,6 +18,10 @@ Pour éviter que les compte cracks puissent être volés, nous avons ajouter une
 # Comment ça marche ?
 Lors de votre première connexion, vous deverais entrer la commande `/register` avec votre mot de passe (`/register MonMotDePasse MonMotDePasse`) Il vous faudra ensuite à chaque connexion entrer la commande `/login MonMotDePasse` pour pouvoir jouer
 
+:::danger Retenez votre mot de passe par pitié
+
+:::
+
 # Mais pourquoi ?
 Vous ne l'avez peux être pas remarqué, mais vous pouvez choisir n'importe quel pseudo en tant que crack. N'importe qui pourrait donc prendre votre pseudo et voler votre stuff... Ce mot de passe est donc la meilleur façon de protéger votre compte.
 
