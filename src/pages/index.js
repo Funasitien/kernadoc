@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`⭐ Bienvenu sur ${siteConfig.title} !`}
+      description="Découvrez Kernacraft, le serveur officiel de Kernanec, et sa magnifique documentation qui est juste trop swag.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
