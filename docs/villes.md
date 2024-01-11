@@ -73,3 +73,8 @@ Nous sommes en train de réfléchir les bonus et les prix. Ce tableau est donc e
 | Niveau 18 | 
 | Niveau 19 | 
 | Niveau 20 | 
+
+# Relations
+Si vous êtes super super RP, vous pouvez faire la guette au autres. Et ouais
+## Modifier vos relations
+Car pour faire la guerre aux autres, il fait d'abord être ennemi avec eux.
