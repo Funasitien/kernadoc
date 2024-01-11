@@ -20,3 +20,9 @@ Cliquez maintenant sur "**Add a Server**" ou "**AJouter un Serveur**". Modifiez 
 Cliquez sur "**Done**" ou "**Terminer**". Le serveur deverais apparaitre dans votre liste des serveurs comme ceci :
 ![Screen connexion java](/img/screen/java4b.png)
 Il ne vous reste plus qu'a cliquez sur le serveur pour le rejoindre !
+
+:::note Vous çetes crack ?
+
+La suite du tuto est juste [ici](../crack).
+
+:::
