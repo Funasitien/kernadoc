@@ -107,7 +107,7 @@ const config = {
               },
               {
                 label: 'Archive',
-                href: 'https://f.dreamclouds.fr/fr/archive/kerna/',
+                href: 'https://f.dreamclouds.fr/archive/kernacraft/',
               },
             ],
           },
