@@ -51,28 +51,28 @@ Nous sommes en train de réfléchir les bonus et les prix. Ce tableau est donc e
 
 :::
 
-| 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Ferme |
+| 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Fermes |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| Niveau 1 | 0 Pièces | 3 Habitants | 
-| Niveau 2 | 500 Pièces | 4 Habitants | 
-| Niveau 3 | 1000 Pièces | 5 Habitants | 
-| Niveau 4 | 1500 Pièces | 6 Habitants | 
-| Niveau 5 | 2000 Pièces | 7 Habitants | 
-| Niveau 6 | 2500 Pièces | 9 Habitants | 
-| Niveau 7 | 3500 Pièces | 11 Habitants | 
-| Niveau 8 | 4500 Pièces | 13 Habitants | 
-| Niveau 9 | 6500 Pièces | 15 Habitants | 
-| Niveau 10 | 8500 Pièces | 18 Habitants | 
-| Niveau 11 | 10000 Pièces | 21 Habitants | 
-| Niveau 12 | 11500 Pièces | 24 Habitants | 
-| Niveau 13 | 13000 Pièces | 27 Habitants | 
-| Niveau 14 | 14500 Pièces | 30 Habitants | 
-| Niveau 15 | 16000 Pièces | 33 Habitants | 
-| Niveau 16 | 18500 Pièces | 36 Habitants | 
-| Niveau 17 | 20000 Pièces | 40 Habitants | 
-| Niveau 18 | 21500 Pièces | 45 Habitants | 
-| Niveau 19 | 23000 Pièces | 50 Habitants | 
-| Niveau 20 | 25000 Pièces | 60 Habitants | 
+| Niveau 1 | 0 Pièces | 3 Habitants | 4 Claims | + 0 % |
+| Niveau 2 | 500 Pièces | 4 Habitants | 9 Claims | - |
+| Niveau 3 | 1000 Pièces | 5 Habitants | 11 Claims | - |
+| Niveau 4 | 1500 Pièces | 6 Habitants | 13 Claims | - |
+| Niveau 5 | 2000 Pièces | 7 Habitants | 15 Claims | - |
+| Niveau 6 | 2500 Pièces | 9 Habitants | 20 Claims | - |
+| Niveau 7 | 3500 Pièces | 11 Habitants | 24 Claims | - |
+| Niveau 8 | 4500 Pièces | 13 Habitants | 28 Claims | - |
+| Niveau 9 | 6500 Pièces | 15 Habitants | 32 Claims | - |
+| Niveau 10 | 8500 Pièces | 18 Habitants | 38 Claims | + 50% |
+| Niveau 11 | 10000 Pièces | 21 Habitants | 45 Claims | - |
+| Niveau 12 | 11500 Pièces | 24 Habitants | 50 Claims | - |
+| Niveau 13 | 13000 Pièces | 27 Habitants | 58 Claims | - |
+| Niveau 14 | 14500 Pièces | 30 Habitants | 64 Claims | - |
+| Niveau 15 | 16000 Pièces | 33 Habitants | 70 Claims | + 100% |
+| Niveau 16 | 18500 Pièces | 36 Habitants | 80 Claims | - |
+| Niveau 17 | 20000 Pièces | 40 Habitants | 90 Claims | - |
+| Niveau 18 | 21500 Pièces | 45 Habitants | 100 Claims | - |
+| Niveau 19 | 23000 Pièces | 50 Habitants | 115 Claims | - |
+| Niveau 20 | 25000 Pièces | 60 Habitants | 130 Claims | Bonus "Luxe" |
 
 # Relations
 Si vous êtes super super RP, vous pouvez faire la guette au autres. Et ouais
