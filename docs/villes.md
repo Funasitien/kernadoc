@@ -54,25 +54,25 @@ Nous sommes en train de réfléchir les bonus et les prix. Ce tableau est donc e
 | 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Ferme |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | Niveau 1 | 0 Pièces | 
-| Niveau 2 | 
-| Niveau 3 | 
-| Niveau 4 | 
-| Niveau 5 | 
-| Niveau 6 | 
-| Niveau 7 | 
-| Niveau 8 | 
-| Niveau 9 | 
-| Niveau 10 | 
-| Niveau 11 | 
-| Niveau 12 | 
-| Niveau 13 | 
-| Niveau 14 | 
-| Niveau 15 | 
-| Niveau 16 | 
-| Niveau 17 | 
-| Niveau 18 | 
-| Niveau 19 | 
-| Niveau 20 | 
+| Niveau 2 | 500 Pièces | 
+| Niveau 3 | 1000 Pièces | 
+| Niveau 4 | 1500 Pièces | 
+| Niveau 5 | 2000 Pièces | 
+| Niveau 6 | 2500 Pièces | 
+| Niveau 7 | 3500 Pièces | 
+| Niveau 8 | 4500 Pièces | 
+| Niveau 9 | 6500 Pièces | 
+| Niveau 10 | 8500 Pièces | 
+| Niveau 11 | 10000 Pièces | 
+| Niveau 12 | 11500 Pièces | 
+| Niveau 13 | 13000 Pièces | 
+| Niveau 14 | 14500 Pièces | 
+| Niveau 15 | 16000 Pièces | 
+| Niveau 16 | 18500 Pièces | 
+| Niveau 17 | 20000 Pièces | 
+| Niveau 18 | 21500 Pièces | 
+| Niveau 19 | 23000 Pièces | 
+| Niveau 20 | 25000 Pièces | 
 
 # Relations
 Si vous êtes super super RP, vous pouvez faire la guette au autres. Et ouais
