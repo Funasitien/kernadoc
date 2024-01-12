@@ -53,26 +53,26 @@ Nous sommes en train de réfléchir les bonus et les prix. Ce tableau est donc e
 
 | 📈 Niveau | 🪙 Prix | 👤 Habitants | 🏡 Terrain (Claims) | 🌾 Bonus de Ferme |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| Niveau 1 | 0 Pièces | 
-| Niveau 2 | 500 Pièces | 
-| Niveau 3 | 1000 Pièces | 
-| Niveau 4 | 1500 Pièces | 
-| Niveau 5 | 2000 Pièces | 
-| Niveau 6 | 2500 Pièces | 
-| Niveau 7 | 3500 Pièces | 
-| Niveau 8 | 4500 Pièces | 
-| Niveau 9 | 6500 Pièces | 
-| Niveau 10 | 8500 Pièces | 
-| Niveau 11 | 10000 Pièces | 
-| Niveau 12 | 11500 Pièces | 
-| Niveau 13 | 13000 Pièces | 
-| Niveau 14 | 14500 Pièces | 
-| Niveau 15 | 16000 Pièces | 
-| Niveau 16 | 18500 Pièces | 
-| Niveau 17 | 20000 Pièces | 
-| Niveau 18 | 21500 Pièces | 
-| Niveau 19 | 23000 Pièces | 
-| Niveau 20 | 25000 Pièces | 
+| Niveau 1 | 0 Pièces | 3 Habitants | 
+| Niveau 2 | 500 Pièces | 4 Habitants | 
+| Niveau 3 | 1000 Pièces | 5 Habitants | 
+| Niveau 4 | 1500 Pièces | 6 Habitants | 
+| Niveau 5 | 2000 Pièces | 7 Habitants | 
+| Niveau 6 | 2500 Pièces | 9 Habitants | 
+| Niveau 7 | 3500 Pièces | 11 Habitants | 
+| Niveau 8 | 4500 Pièces | 13 Habitants | 
+| Niveau 9 | 6500 Pièces | 15 Habitants | 
+| Niveau 10 | 8500 Pièces | 18 Habitants | 
+| Niveau 11 | 10000 Pièces | 21 Habitants | 
+| Niveau 12 | 11500 Pièces | 24 Habitants | 
+| Niveau 13 | 13000 Pièces | 27 Habitants | 
+| Niveau 14 | 14500 Pièces | 30 Habitants | 
+| Niveau 15 | 16000 Pièces | 33 Habitants | 
+| Niveau 16 | 18500 Pièces | 36 Habitants | 
+| Niveau 17 | 20000 Pièces | 40 Habitants | 
+| Niveau 18 | 21500 Pièces | 45 Habitants | 
+| Niveau 19 | 23000 Pièces | 50 Habitants | 
+| Niveau 20 | 25000 Pièces | 60 Habitants | 
 
 # Relations
 Si vous êtes super super RP, vous pouvez faire la guette au autres. Et ouais
